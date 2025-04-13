@@ -1,0 +1,9 @@
+color=["Red","Green","Blue"]
+print(color)
+color.append("Orange")
+print(color)
+color.insert(1,"Purple")
+print(color)
+color1=["Brown","White","Gray","Yellow"]
+color.extend(color1)
+print(color)
